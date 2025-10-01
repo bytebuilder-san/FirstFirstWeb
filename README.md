@@ -1,2 +1,2 @@
 # FirstFirstWeb
-This is the stupiest repo
+This is the stupiest repo ever
